@@ -74,18 +74,9 @@ import org.springframework.stereotype.Service;
             {
                 throw new Exception("Exception in deleteTrack");
             }
-            //return false;
+
         }
-//
-//        @Override
-//        public List<Track> getTrackByName(String trackName) throws Exception {
-//            List<Track> trackList=null;
-//            trackList=trackRepository.getTrackByName(trackName);
-//            if(trackList.equals(null))
-//            {
-//                throw new Exception("Exception in gettrackName");
-//            }
-//            return trackList;
+
         }
 
 

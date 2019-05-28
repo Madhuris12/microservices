@@ -1,4 +1,4 @@
 com/stackroute/controller/UserControllerTest.class
 com/stackroute/repository/UserRepositoryTest.class
-com/stackroute/service/UserServiceTest.class
 com/stackroute/SpringBootTestApplicationTests.class
+com/stackroute/service/UserServiceTest.class

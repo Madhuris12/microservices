@@ -1,7 +1,7 @@
-/home/meghna/Documents/springboot_test/src/main/java/com/stackroute/domain/User.java
-/home/meghna/Documents/springboot_test/src/main/java/com/stackroute/SpringBootTestApplication.java
-/home/meghna/Documents/springboot_test/src/main/java/com/stackroute/exception/UserAlreadyExistException.java
-/home/meghna/Documents/springboot_test/src/main/java/com/stackroute/repository/UserRepository.java
-/home/meghna/Documents/springboot_test/src/main/java/com/stackroute/service/UserServiceImpl.java
-/home/meghna/Documents/springboot_test/src/main/java/com/stackroute/service/UserService.java
-/home/meghna/Documents/springboot_test/src/main/java/com/stackroute/controller/UserController.java
+/home/madhuri/Downloads/microservices/user-service/src/main/java/com/stackroute/SpringBootTestApplication.java
+/home/madhuri/Downloads/microservices/user-service/src/main/java/com/stackroute/repository/UserRepository.java
+/home/madhuri/Downloads/microservices/user-service/src/main/java/com/stackroute/service/UserService.java
+/home/madhuri/Downloads/microservices/user-service/src/main/java/com/stackroute/controller/UserController.java
+/home/madhuri/Downloads/microservices/user-service/src/main/java/com/stackroute/domain/User.java
+/home/madhuri/Downloads/microservices/user-service/src/main/java/com/stackroute/service/UserServiceImpl.java
+/home/madhuri/Downloads/microservices/user-service/src/main/java/com/stackroute/exception/UserAlreadyExistException.java

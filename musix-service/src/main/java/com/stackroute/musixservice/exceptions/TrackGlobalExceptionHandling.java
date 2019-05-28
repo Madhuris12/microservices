@@ -1,5 +1,6 @@
 package com.stackroute.musixservice.exceptions;
 
+import com.stackroute.musixservice.response.ResponseForError;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
