@@ -24,6 +24,7 @@
         <module>musix-service</module>
         <module>spring-eureka-server</module>
         <module>config-server</module>
+        <module>apigateway-service</module>
     </modules>
 
     <dependencies>
