@@ -1,0 +1,23 @@
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:8099/eureka/
+#      register-with-eureka: true
+#      fetch-registry: true
+data:
+  mongodb:
+    repositories:
+      enabled: true
+
+    host: localhost
+
+
+driverClassName: com.mongodb.jdbc.MongoDriver
+
+spring:
+  application:
+     name: trackservice
+
+logging:
+  level:
+    com.stackroute.route: DEBUG
